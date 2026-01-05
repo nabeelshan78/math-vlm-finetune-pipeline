@@ -110,14 +110,14 @@ latex_code = inference.generate("my_handwritten_equation.png", prompt_text="Conv
 
 print(latex_code)
 # Output: \int_{0}^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
-```python
+```
 
 ---
 
 ## 📊 Performance & Results
 
 ### 1. Training Convergence
-Below is the training loss curve over 3 epochs, demonstrating steady convergence using the QLoRA adapter.
+Below is the training loss curve over 1 epochs, demonstrating steady convergence using the QLoRA adapter.
 
 ![Loss Curve](results/loss_curve.png)
 
