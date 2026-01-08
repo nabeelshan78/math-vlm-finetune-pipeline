@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+peft
+bitsandbytes
+accelerate
+pillow
+pandas
+matplotlib
+huggingface_hub
+torch 
+torchvision 
+torchaudio 
